@@ -119,7 +119,7 @@
     "isApp": true,
     "appStoreUrl": "",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.alfiesalad.backoffice",
-    "mainImage": "/assets/project/alfie-salad/backoffice.png",
+    "mainImage": "/assets/project/alfie-salad/app/backoffice.png",
     "images": "",
     "role": "Development",
     "isMultiple":false,
